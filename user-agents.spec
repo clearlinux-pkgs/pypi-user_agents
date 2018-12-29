@@ -4,7 +4,7 @@
 #
 Name     : user-agents
 Version  : 1.1.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/be/ff/886a1e2570784ee63b1c4b0fd77037b84087ffe7b7b45f9751285418be34/user-agents-1.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/be/ff/886a1e2570784ee63b1c4b0fd77037b84087ffe7b7b45f9751285418be34/user-agents-1.1.0.tar.gz
 Summary  : A library to identify devices (phones, tablets) and their capabilities by parsing (browser/HTTP) user agent strings
