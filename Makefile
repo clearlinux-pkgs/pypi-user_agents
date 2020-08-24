@@ -1,5 +1,5 @@
 PKG_NAME := user-agents
-URL = https://files.pythonhosted.org/packages/1b/be/82e4d20a7716d8e5de98b948edcecff9bb237e6718c3831bd92794fe9821/user-agents-2.1.tar.gz
+URL = https://files.pythonhosted.org/packages/e3/e1/63c5bfb485a945010c8cbc7a52f85573561737648d36b30394248730a7bc/user-agents-2.2.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
