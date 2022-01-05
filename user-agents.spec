@@ -4,7 +4,7 @@
 #
 Name     : user-agents
 Version  : 2.2.0
-Release  : 25
+Release  : 26
 URL      : https://files.pythonhosted.org/packages/e3/e1/63c5bfb485a945010c8cbc7a52f85573561737648d36b30394248730a7bc/user-agents-2.2.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/e3/e1/63c5bfb485a945010c8cbc7a52f85573561737648d36b30394248730a7bc/user-agents-2.2.0.tar.gz
 Summary  : A library to identify devices (phones, tablets) and their capabilities by parsing browser user agent strings.
@@ -13,9 +13,8 @@ License  : MIT
 Requires: user-agents-license = %{version}-%{release}
 Requires: user-agents-python = %{version}-%{release}
 Requires: user-agents-python3 = %{version}-%{release}
-Requires: ua-parser
 BuildRequires : buildreq-distutils3
-BuildRequires : ua-parser
+BuildRequires : pypi(ua_parser)
 
 %description
 ==================
@@ -57,7 +56,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1598286326
+export SOURCE_DATE_EPOCH=1641420639
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
 export FCFLAGS="$FFLAGS -fno-lto "
