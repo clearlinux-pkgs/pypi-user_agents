@@ -7,7 +7,7 @@
 #
 Name     : pypi-user_agents
 Version  : 2.2.0
-Release  : 39
+Release  : 40
 URL      : https://files.pythonhosted.org/packages/e3/e1/63c5bfb485a945010c8cbc7a52f85573561737648d36b30394248730a7bc/user-agents-2.2.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/e3/e1/63c5bfb485a945010c8cbc7a52f85573561737648d36b30394248730a7bc/user-agents-2.2.0.tar.gz
 Summary  : A library to identify devices (phones, tablets) and their capabilities by parsing browser user agent strings.
